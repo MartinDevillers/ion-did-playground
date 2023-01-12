@@ -1,5 +1,8 @@
+<p align="center">
+    <img alt="Battleship" width="150" src="https://raw.githubusercontent.com/MartinDevillers/ion-did-playground/main/public/logo.png" />
+</p>
 <h1 align="center">
-  🔑 ION DID Playground
+  ION DID Playground
 </h1>
 
 <p align="center">
@@ -8,7 +11,7 @@
   </a>
 </p>
 
-ION is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a ‘Layer 2’ overlay) to support DIDs/DPKI (Decentralized Public Key Infrastructure) at scale.
+🔑 ION is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a ‘Layer 2’ overlay) to support DIDs/DPKI (Decentralized Public Key Infrastructure) at scale.
 
 ## ✨ Features
 
