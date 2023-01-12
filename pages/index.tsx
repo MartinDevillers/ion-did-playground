@@ -112,7 +112,12 @@ export default function Home() {
           borderRadius: 0.5,
         }}
       >
-        <ButtonGroup size="large" variant="contained" disableElevation sx={{ mb: 4 }}>
+        <ButtonGroup
+          size="large"
+          variant="contained"
+          disableElevation
+          sx={{ mb: 4, display: "flex", justifyContent: "center" }}
+        >
           <Button
             color={tab === "create" ? "primary" : "secondary"}
             startIcon={<LocalOfferOutlinedIcon />}
