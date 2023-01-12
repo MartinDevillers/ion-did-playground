@@ -94,7 +94,9 @@ export default function Home() {
   return (
     <Container maxWidth="sm" sx={{ py: 2 }}>
       <Box>
-        <Image src={logo} alt="ION" />
+        <Box display="flex" justifyContent="center">
+          <Image src={logo} alt="ION DID Playground" />
+        </Box>
         <Typography variant="subtitle1" component="h2" color="text.secondary">
           <Link href="https://identity.foundation/ion/" target="_blank">
             ION
