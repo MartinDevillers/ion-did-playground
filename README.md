@@ -13,6 +13,8 @@
 
 🔑 ION is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a ‘Layer 2’ overlay) to support DIDs/DPKI (Decentralized Public Key Infrastructure) at scale.
 
+[**See it in action!**](https://ion.devillers.nl)
+
 ## ✨ Features
 
 - Generate keys using either `SECP256K1` or `ED25519`
